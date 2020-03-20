@@ -25,6 +25,7 @@ url: "https://blog.wjharney.com" # the base hostname & protocol for your site, e
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
   # GitHub-enforced plugins
   - jekyll-coffeescript
   - jekyll-default-layout

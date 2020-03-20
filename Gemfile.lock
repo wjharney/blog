@@ -267,6 +267,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-admin
+  jemoji (~> 0.11.1)
 
 BUNDLED WITH
    2.1.4
